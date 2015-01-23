@@ -1,0 +1,7 @@
+{
+  "dbName": "xteria",
+  "dbUser": "postgres",
+  "dbPassword": null,
+  "host": "localhost",
+  "port": 5432
+}

@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^2.8.2",
+    "pg": "^4.2.0",
+    "pg-hstore": "^2.3.1",
+    "sequelize": "^2.0.0-rc7",
+    "umzug": "^1.2.4"
+  },
+  "devDependencies": {}
+}
