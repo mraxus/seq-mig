@@ -7,3 +7,5 @@ The purpose of the project is to show how to programmatically control migrations
 See more:
 [Sequelize](https://github.com/sequelize/sequelize)
 [Umzug](https://github.com/sequelize/umzug)
+
+Haj
